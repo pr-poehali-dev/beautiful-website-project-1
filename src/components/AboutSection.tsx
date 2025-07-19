@@ -64,7 +64,7 @@ export default function AboutSection() {
                   <Icon name="User" size={20} className="text-primary" />
                 </div>
                 <div>
-                  <p className="font-semibold text-gray-900">Автор проекта</p>
+                  <p className="font-semibold text-gray-900">Анатолий</p>
                   <p className="text-sm text-gray-500">Создатель сообщества поддержки</p>
                 </div>
               </div>
