@@ -18,7 +18,7 @@ export default function AboutSection() {
                 <Icon name="Clock" size={16} className="text-primary" />
               </div>
               <div>
-                <h3 className="font-semibold text-lg text-gray-900 mb-2">8 лет опыта</h3>
+                <h3 className="font-semibold text-lg text-gray-900 mb-2">Болею уже больше 8 лет</h3>
                 <p className="text-gray-600">
                   Личный путь через множество диагнозов и лечений дал мне глубокое понимание 
                   того, что значит жить с болезнью каждый день.
